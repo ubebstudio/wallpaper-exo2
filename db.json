@@ -89,7 +89,7 @@
   "album": [
     "Kim Min Seok"
   ],
-  "init_jumlah_photo": 100,
+  "init_jumlah_photo": 50,
   "admob_banner_id": "ca-app-pub-4680921445869325/7947537230",
   "admob_interstitial_id": "ca-app-pub-4680921445869325/5321373890",
   "admob_native_id": "ca-app-pub-4680921445869325/8767177778",
@@ -117,7 +117,7 @@
   "album": [
     "EXO", "Chanyeol","Sehun","Kai","Baekhyun","DO","Suho","Chen","Lay","Xiumin"
   ],
-  "init_jumlah_photo": 50,
+  "init_jumlah_photo": 100,
   "admob_banner_id": "ca-app-pub-4680921445869325/7620234176",
   "admob_interstitial_id": "ca-app-pub-4680921445869325/6307152506",
   "admob_native_id": "ca-app-pub-4680921445869325/2244618566",
